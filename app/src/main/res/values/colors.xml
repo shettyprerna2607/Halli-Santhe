@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Royal Indian Palette -->
+    <color name="brand_primary">#1A237E</color> <!-- Deep Midnight Blue -->
+    <color name="brand_secondary">#FFAB00</color> <!-- Royal Gold -->
+    <color name="brand_accent">#00B8D4</color> <!-- Bright Turquoise -->
+    
+    <!-- Backgrounds -->
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_soft_cream">#FCF9F2</color> <!-- Sophisticated Off-White -->
+    
+    <!-- Text Colors -->
+    <color name="text_main">#1A237E</color>
+    <color name="text_muted">#5C6BC0</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

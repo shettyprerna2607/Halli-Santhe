@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Halli-Santhe</string>
+    <string name="discover_crafts">Discover authentic village crafts</string>
+    <string name="search_hint">Search for pottery, sarees...</string>
+    <string name="trending_now">Trending Now</string>
+    <string name="add_craft">Add Craft</string>
+    <string name="upload_craft">Upload Your Craft</string>
+    <string name="share_art">Share your village\'s art with the world</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price (₹)</string>
+    <string name="category">Category</string>
+    <string name="description">Short Description</string>
+    <string name="seller_name">Seller Name</string>
+    <string name="contact">Seller Contact (WhatsApp/Phone)</string>
+    <string name="submit">Add Product to Market</string>
+    <string name="contact_artisan">Contact Artisan via WhatsApp</string>
+    <string name="about_craft">About this craft</string>
+    <string name="seller_info">Seller Information</string>
+</resources>

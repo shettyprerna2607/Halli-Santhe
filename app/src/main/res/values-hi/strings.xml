@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हल्ली-संते</string>
+    <string name="discover_crafts">प्रामाणिक ग्रामीण शिल्प खोजें</string>
+    <string name="search_hint">मिट्टी के बर्तन, साड़ी खोजें...</string>
+    <string name="trending_now">अभी ट्रेंडिंग</string>
+    <string name="add_craft">शिल्प जोड़ें</string>
+    <string name="upload_craft">अपना शिल्प अपलोड करें</string>
+    <string name="share_art">अपने गाँव की कला दुनिया के साथ साझा करें</string>
+    <string name="product_name">उत्पाद का नाम</string>
+    <string name="price">कीमत (₹)</string>
+    <string name="category">श्रेणी</string>
+    <string name="description">संक्षिप्त विवरण</string>
+    <string name="seller_name">विक्रेता का नाम</string>
+    <string name="contact">विक्रेता संपर्क (व्हाट्सएप/फोन)</string>
+    <string name="submit">मार्केट में उत्पाद जोड़ें</string>
+    <string name="contact_artisan">व्हाट्सएप द्वारा संपर्क करें</string>
+    <string name="about_craft">इस शिल्प के बारे में</string>
+    <string name="seller_info">विक्रेता की जानकारी</string>
+</resources>
